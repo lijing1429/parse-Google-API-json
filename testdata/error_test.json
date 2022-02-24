@@ -1,0 +1,17 @@
+{
+   "available_travel_modes" : [ "DRIVING", "WALKING", "BICYCLING" ],
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJx4LCtQzce0gRLk_Lx2sBA8o",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJMXf3PP9meUgRDutHlcMsgZA",
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "routes" : [],
+   "status" : "ZERO_RESULTS"
+}
